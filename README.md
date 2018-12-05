@@ -70,7 +70,7 @@ ionic cordova --help
 ```
 Wymaga to SDK.
 7. Czy da się budować aplikację do natywnych formatów przykładowo .apk?
-Tak. Ionic ma cały workflow związany z budowaniem natywnych formatów. Ma też bardzo przejrzysty panel z prowadzącym krok po kroku wizardem. Ionic buduje natywne formaty w chmurze poprzez panel do którego można się zalogować.
+Tak. Ionic ma cały workflow związany z budowaniem natywnych formatów. Ma też bardzo przejrzysty panel z prowadzącym krok po kroku wizardem. Ionic buduje natywne formaty w chmurze poprzez panel do którego można się zalogować. Niestety o ile same buildy w chmurze itp są darmowe o tyle żeby pobrać natywną paczkę trzeba wydać conajmniej 29$ na miesiąc. Darmowo moża uzyć cordova do bildów ale wtedy rezygnujemy z automatyzacji jaką zapewnia ionic.
 
 ## Moja opinia
 
